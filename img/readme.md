@@ -29,7 +29,6 @@ contact_us.HTML
 Before staging, I ran a `git status` command to show new updates.
 ![git_status](./3git_status.png)
 
-
 The new updates are shown in red.
 
 Then I did the `git add .` command to stage all.
