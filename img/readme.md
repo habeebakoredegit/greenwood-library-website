@@ -28,6 +28,8 @@ contact_us.HTML
 ## Staging
 Before staging, I ran a `git status` command to show new updates.
 ![git_status](./3git_status.png)
+
+
 The new updates are shown in red.
 
 Then I did the `git add .` command to stage all.
@@ -36,6 +38,8 @@ Then I did the `git add .` command to stage all.
 
 Then I did `git status` again to confirm the updates have been staged.
 ![confirm_staging](./4git_staus.png)
+
+
 The staged updates are shown in green.
 
 ## Commit
@@ -71,10 +75,16 @@ Then I pushed the branch changes to github
 
 ## Raising a Pull Request
 I navigated to "add-book-reviews" branch under the main branch.
+
+
 ![pull_request](./12pull_request1.png)
+
+
 
 I initiated and confirmed the pull request as sequentially shown below.
 ![pull_request](./13pull_request2.png)
+
+
 
 
 ![pull_request](./14pull_request3.png)
@@ -85,7 +95,11 @@ After confirming the branch has no conflicts with the base branch, I merged it w
 ![merge](./15merge_pull_request.png)
 
 
+
+
 ![confirm_merge](./16confirm_merge.png)
+
+
 
 
 The image below shows that merge was successful.
